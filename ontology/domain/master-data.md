@@ -6,9 +6,8 @@
 
 - 议题：主数据管理是否该加入数据工程体系，加在哪里。
 - 依据一：元工程域 `docs/specification/index.md`（元标准——从实践中总结、用于定义和规范基础概念及其关系的顶层共识）与 `docs/gallery/ontology/property/index.md`（本体标准属性）。
-- 依据二：《量潮第二大脑章程》第一条（十八种标准资产的构成）、第十条（陈述型记忆九宫格回答组织「知道什么」）。
-- 依据三：数据工程域 `docs/specification/index.md` 的四层框架（Requirement → Specification（Contract + Blueprint）→ Implementation（Catalog + Pipeline）→ Task）。
-- 依据四：数据工程域 `data/library/tools/` 的五篇平台调研（OpenMetadata、DataHub、Amundsen、Apache Atlas、Label Studio）。
+- 依据二：数据工程域 `docs/specification/index.md` 的四层框架（Requirement → Specification（Contract + Blueprint）→ Implementation（Catalog + Pipeline）→ Task）。
+- 依据三：数据工程域 `data/library/tools/` 的五篇平台调研（OpenMetadata、DataHub、Amundsen、Apache Atlas、Label Studio）。
 
 ## 分歧的由来
 
