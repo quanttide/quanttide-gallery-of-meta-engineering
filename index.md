@@ -93,5 +93,8 @@
 ## 目录
 
 - [本体标准属性](./ontology/property/index.md)
-- [主数据](./ontology/domain/master-data.md)
-- [文档格式](./ontology/domain/doc-format.md)
+- [主数据](./ontology/entity/master-data.md)
+- [文档格式](./ontology/entity/doc-format.md)
+- [信用管理](./ontology/domain/credit.md)
+- [日志与档案：不一致如何逐步收敛](./category/journal-vs-profile.md)
+- [档案与案例：谁需要程序性结构](./category/profile-vs-gallery.md)
