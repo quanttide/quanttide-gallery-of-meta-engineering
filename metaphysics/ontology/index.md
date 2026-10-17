@@ -14,7 +14,7 @@
 
 ## 主体层
 
-主体层收法人主体与创始人的档案：公司 `quanttide-tech`、实训基地 `quanttide-academy`、联盟 `quanttide-innovation-alliance`、创始人 `quanttide-founder`。它确定知识归谁所有：同一条记录挂在哪个主体名下，由这一层回答。主体是人和法人，其存在与平台无关。
+主体层收法人主体与创始人的档案：公司 `quanttide-tech`、实训基地 `quanttide-academy`、联盟 `quanttide-alliance`、创始人 `quanttide-founder`。它确定知识归谁所有：同一条记录挂在哪个主体名下，由这一层回答。主体是人和法人，其存在与平台无关。
 
 ## 领域层
 
