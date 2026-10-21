@@ -20,7 +20,7 @@ Context 是九宫格的默认入口：用户从日常工作中感知到模式或
 
 | 位置 | 事件类 | 语义类 | 自我类 |
 |:----|:-------|:-------|:-------|
-| 过去 | Report 报告 | Library 参考 | History 历史 |
+| 过去 | Report 报告 | Library 图书馆 | History 历史 |
 | 现在 | Journal 日志 | Profile 档案 | Brochure 宣传册 |
 | 未来 | Roadmap 路线图 | Insight 洞察 | Intention 愿景 |
 
