@@ -34,7 +34,7 @@ Context 是九宫格的默认入口：用户从日常工作中感知到模式或
 
 | 位置 | 规则 | 建模 | 应用 |
 |:----|:---------|:-------|:-------------|
-| 宪法 | Bylaw 章程 | Specification 工程标准 | Toolkit 工具箱 |
+| 宪法 | Bylaw 章程 | Specification 工程标准 | Toolkit 标准库 |
 | 法律 | Handbook 手册 | Gallery 案例 | Platform 平台 |
 | 法理 | Tutorial 教程 | Essay 论文 | Laboratory 实验室 |
 
