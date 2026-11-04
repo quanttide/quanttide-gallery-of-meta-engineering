@@ -7,7 +7,7 @@
 本仓库收录量潮元工程的实践案例，包括：
 
 - [量潮标准范畴](./metaphysics/category/index.md)：第二大脑资产图式——两个九宫格十八种标准资产、手册与案例的分界、维护规则
-- [标准属性](./metaphysics/category/properties.md)：字段定义九条确认（id 用 uuid，name 做机器可读标识）与唯一已确认公理 template-scope，自 qtfounder 归位工具淘汰时迁入
+- [标准属性](./metaphysics/property/index.md)：字段定义九条确认（id 用 uuid，name 做机器可读标识）与唯一已确认公理 template-scope，自 qtfounder 归位工具淘汰时迁入
 
 ## 许可
 
